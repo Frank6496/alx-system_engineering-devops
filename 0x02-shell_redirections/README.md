@@ -1,0 +1,1 @@
+It's executing the commands listed in each file
